@@ -35,7 +35,10 @@ https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6f
 </details>
 
 # Download SwiftBar
-Find the Plugin on the Roblox Marketplace [here!](https://create.roblox.com/marketplace/asset/14451262861/SwiftBar).
-_USD Payments unavailable_
+Find the Plugin on the Roblox Marketplace [here!](https://create.roblox.com/marketplace/asset/14451262861/SwiftBar)
+ _USD Payments unavailable_
 
-### Want to join our community? [Find it here.](https://discord.gg/Hn3Z4negQZ)!
+### Want to join our community? [Find it here.](https://discord.gg/Hn3Z4negQZ)
+
+# Want to create a custom command? 
+### Visit the Custom Command Repository [here.](https://github.com/Julpav/CustomSwiftBar/tree/main)
