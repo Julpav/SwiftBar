@@ -12,7 +12,7 @@ https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6f
 
 ### Confused what commands there are? Run the command “help” within SwiftBar or view below.
 <details>
-  <summary>v1.2 Built-in commands</summary>
+  <summary>v1.1b Built-in commands</summary>
 
   
   1. Rename – This is included in the Number command
@@ -28,9 +28,7 @@ https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6f
   11. Find – Find the instance and zoom to it!
   12. Credit – Displays exactly what it’s called lol
   13. Search – Find & select instances in workspace
-![image](https://github.com/Julpav/swiftbar/assets/55050718/228ac837-eaf3-4ec4-ba65-5ea04cd75e00)
-  14. Session – View current running session time within Studio (focused-window)
-  15. Gitclone — Clone a public file in a GitHub Repository
+
 
 </details>
 
