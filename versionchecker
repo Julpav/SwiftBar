@@ -1,0 +1,9 @@
+local newestversion = "1.2"
+
+if version ~= newestversion then
+
+    debugprint("CHECKING VERSION..")
+
+    notification("SwiftBar is currently outdated! Update to "..newestversion)
+
+end
