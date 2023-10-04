@@ -10,27 +10,7 @@ In the future, if you may need to reset the Plugin settings, you can reset it by
 
 https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6fcd960ea
 
-### Confused what commands there are? Run the command “help” within SwiftBar or view below.
-<details>
-  <summary>v1.1b Built-in commands</summary>
-
-  
-  1. Rename – This is included in the Number command
-  2. Number – Number multiple assets (e.g. button1, button2)
-  3. Folder – Create a folder through selection
-  4. Help – Display all commands etc
-  5. Script – Use AI to write your own Scripts ```DISABLED```
-  6. Fix — Use AI to fix your own Scripts ```DISABLED```
-  7. Time – Change times to day/night/afternoon/morning
-  8. UI – Disable UI views (gotta check if this is possible)
-  9. Select – Select certain types of instances
-  10. New – Create instances & name them easily
-  11. Find – Find the instance and zoom to it!
-  12. Credit – Displays exactly what it’s called lol
-  13. Search – Find & select instances in workspace
-
-
-</details>
+### Confused what commands there are? Run the command “help” within SwiftBar or view the most recent release!
 
 # Download SwiftBar
 Find the Plugin on the Roblox Marketplace [here!](https://create.roblox.com/marketplace/asset/14451262861/SwiftBar)
